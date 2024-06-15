@@ -4,7 +4,7 @@ import requests
 class RequestsHandler:
     debug = None
     apiUrl = "https://api.kotanipay.io/api/v3"
-    stagingUrl = "https://sandbox-api.kotanipay.io/api/v3"
+    stagingUrl = "https://kpapistaging.api-service.live/api/v3"
     accessKey = None
     url = None
     headers = {"content-type": "application/json"}
