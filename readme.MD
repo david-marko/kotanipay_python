@@ -65,7 +65,7 @@ You can test the installation by importing the Base class onto python as shown b
 
 # Todo
 
- - [ ] Deploy Package
+ - [x] Deploy Package
  - [ ] Unit Tests
  - [ ] Inbuilt Support for environment variables for the access_key
  - [ ] Input Validation
