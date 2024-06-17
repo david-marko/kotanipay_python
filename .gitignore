@@ -7,8 +7,10 @@ client_secret.json
 .vscode/
 tags
 source.sh
+kotanipay.egg-info
 .cache
 venv/
 venv-2/
+build
 dist
 ./pytest_cache
